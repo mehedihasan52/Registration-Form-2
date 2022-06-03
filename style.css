@@ -94,7 +94,7 @@ form .gender-details .category{
 #dot-2:checked ~ .category label .two,
 #dot-3:checked ~ .category label .three{
     border-color:hsl(210, 70%, 67%);
-    background:#59b689
+    background:#fff;
 }
 form input[type="radio"]{
     display: none;
